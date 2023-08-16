@@ -26,3 +26,4 @@ class TestLogin:
 
         # new comment for a fresh commit
         # another comment
+# change done by user B
