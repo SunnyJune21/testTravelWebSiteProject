@@ -25,3 +25,4 @@ class TestLogin:
         assert register_success_lbl.__contains__(username_password[0]), "User registration failed!"
 
         # new comment for a fresh commit
+        # another comment
